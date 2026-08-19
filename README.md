@@ -16,16 +16,18 @@
 name: Shruti S Jaybhay
 location: Maharashtra, India 🇮🇳
 role: BCA Student
+
 currently:
   - Learning Web Development
   - Learning Java and Python
   - Practicing Git & GitHub
   - Building academic projects
+
 interests:
   - Web Development
   - Software Development
   - Artificial Intelligence
   - New Technologies
-goal: Become a skilled Software Developer 🚀
 
-
+mission: Learn, Build and Grow 🚀
+goal: Become a skilled Software Developer
