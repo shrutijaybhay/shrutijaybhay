@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🌸 Hi, I'm Shruti S Jaybhay
 
-<!--
-**shrutijaybhay/shrutijaybhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>🎓 BCA Student | 💻 Web Development Learner | 🚀 Aspiring Software Developer</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+```yaml
+name: Shruti S Jaybhay
+location: Maharashtra, India 🇮🇳
+role: BCA Student
+currently:
+  - Learning Web Development
+  - Learning Java and Python
+  - Practicing Git & GitHub
+  - Building academic projects
+interests:
+  - Web Development
+  - Software Development
+  - Artificial Intelligence
+  - New Technologies
+goal: Become a skilled Software Developer 🚀
+
+
